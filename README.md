@@ -8,12 +8,12 @@ then use input and ouptut to ge th output
 
 Basic Assignment:-
  
-Use:	make seamcarving
-	
-	to generate out file 
-	the output is "seamcarving"
+``` Use:	make seamcarving ```
+
+to generate out file 
+the output is "seamcarving"
       
-Use:	./seamcarving input.jpg output.jpg 640 480
+```Use:	./seamcarving input.jpg output.jpg 640 480 ```
 	format: seamcarving input_image output_image output_width output_height
 	
 

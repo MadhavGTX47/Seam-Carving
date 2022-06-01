@@ -14,7 +14,8 @@ to generate out file
 the output is "seamcarving"
       
 ```Use:	./seamcarving input.jpg output.jpg 640 480 ```
-	format: seamcarving input_image output_image output_width output_height
+
+``` format like: seamcarving input_image output_image output_width output_height ```
 	
 
 
